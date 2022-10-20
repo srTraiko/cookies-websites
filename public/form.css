@@ -1,0 +1,30 @@
+
+span {
+    color: #fff;
+    font-size: 20px;
+}
+
+
+.formulary input {
+    display: flex;
+    margin: 0 auto;
+    height: 30px;
+    font-size: 13px;
+    color: #000;
+    margin-bottom: 20px;
+}
+
+.formulary {
+    margin-top: 100px;
+    text-align: center;
+}
+
+#send {
+    width: 100px;
+    height: 40px;
+    display: inline-block;
+    font-size: 13px;
+    /* text-align: center; */
+    background: #fff;
+    border: none;
+}

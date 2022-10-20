@@ -1,0 +1,62 @@
+.showcase {
+    width: 95%;
+    margin: auto;
+    height: 300px;
+    background: repeat center/100% url("../img/tinified/macarron.jpg");
+    background-size: auto auto;
+    padding-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    border: 6px solid #f4f4f4;
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
+
+.showcase p {
+    font-size: 18px;
+}
+
+/* bar content */
+.bar-content {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    background-color: #9B5DE5;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    border: 3px solid #fff;
+}
+
+
+.bar-content img {
+   width: 140px;
+   height: 140px;
+   border-radius: 30px;
+   padding: 8px;
+}
+
+.bar-content h3 {
+    color: #FEE440;
+}
+
+.bar-content a h3:hover {
+    opacity: .70;
+}
+
+.description {
+    margin-inline: auto;
+    margin-top: 10px;
+    margin-left: 14px;
+}
+
+.description a, i {
+    display: flex;
+}
+
+#blog {
+    text-align: center;
+    margin-bottom: 20px;
+}
